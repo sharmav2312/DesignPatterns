@@ -1,0 +1,5 @@
+To make to unrelated interfaces work together.
+The object that joins these unrelated interfaces is called an adapter.
+Structural design pattern.
+
+Eg. Mobile charger - the charger works as adapter between mobile charging and electricity vaults
