@@ -17,4 +17,6 @@ public class MobileAdapterImpl implements MobileAdapter {
 
     }
     
+    // aksbnfckas
+    // kadcha
 }
