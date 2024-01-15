@@ -7,3 +7,6 @@ public interface Observer {
     void subscribeChannel(Subject ch);
 
 }
+
+
+// kjnskcnak
